@@ -75,8 +75,8 @@ Soy **Ingeniero Informático** titulado de Duoc UC (Chile), apasionado por la te
 ## 🌐 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/christopher-gl/)
-- ✉️ cgonzalez.cpgl@gmail.com
-- 📍 Santiago, Región Metropolitana, Chile
+- ✉️ cgonzalezl.dev@gmail.com
+- 📍 Chile
 
 ---
 
